@@ -1,7 +1,7 @@
 # Data-Transfer-Torkshop 
 
-<h2>Date: February 5th, 2021 /h2>
-<h2>Location: Virtual/h2></center>
+<h2>Date: February 5th, 2021 </h2>
+<h2>Location: Virtual/h2>
 <h3>Presenters: Sean Cleveland UH ITS - Cyberinfrastructure, HI-DSI</h3>
 <center>
 <img src="https://www.hawaii.edu/wp/wp-content/uploads/2016/06/seal-name@2x.png"/>
