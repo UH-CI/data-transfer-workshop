@@ -10,7 +10,7 @@
 
 This FREE workshop is sponsored by the University of Hawai'i Information Technology Service Cyberinfrastructure group and Hawaii Data Science Institute (HI-DSI)
 
-This workshop focuses specifically on introducing the Globus (http://globus.org), and RClone data transfer technologies  that enable fast and robust data movement.
+This workshop focuses specifically on introducing the Globus (https://globus.org), and RClone (https://rclone.org) data transfer technologies  that enable fast and robust data movement.
 
 Attendees will learn about how to transfer large dataset effieceintly using Globus and how to move data to and from Google Drive effectively.
 
