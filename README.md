@@ -1,4 +1,4 @@
-# Data-Transfer-Torkshop 
+# Data Transfer Workshop 
 
 <h2>Date: February 5th, 2021 2pm-4pm HST</h2>
 <h2>Location: Virtual</h2>
