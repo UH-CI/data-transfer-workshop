@@ -5,6 +5,7 @@
 <h3>Presenters: Sean Cleveland UH ITS - Cyberinfrastructure, HI-DSI</h3>
 <center>
 <img src="https://www.hawaii.edu/wp/wp-content/uploads/2016/06/seal-name@2x.png"/>
+<img src="https://datascience.hawaii.edu/wp-content/uploads/2018/03/logo_5.png"/>
 </center>
 
 This FREE workshop is sponsored by the University of Hawai'i Information Technology Service Cyberinfrastructure group and Hawaii Data Science Institute (HI-DSI)
