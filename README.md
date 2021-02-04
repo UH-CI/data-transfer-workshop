@@ -1,6 +1,6 @@
 # Data-Transfer-Torkshop 
 
-<h2>Date: February 5th, 2021 </h2>
+<h2>Date: February 5th, 2021 2pm-4pm HST</h2>
 <h2>Location: Virtual</h2>
 <h3>Presenters: Sean Cleveland UH ITS - Cyberinfrastructure, HI-DSI</h3>
 <center>
@@ -30,5 +30,27 @@ Attendees will learn about how to transfer large dataset effieceintly using Glob
 
 ## Schedule
 
-
-
+## Firday February 5th, 2021
+<table class="tg" style="width: 100%">
+  <tr>
+    <th class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Time</th>
+    <th class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Topic</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">02:00PM - 02:15PM</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Introduction</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">02:15PM - 3:00PM</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Setting up and Using Globus - Hands On</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">3:00PM - 3:30PM</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Using Rclone with Google Drive - Hands On</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">3:30pM - 3:45pM</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Wrap Up</td>
+  </tr>
+  
+  </table>
