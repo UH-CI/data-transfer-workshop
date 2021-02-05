@@ -53,7 +53,7 @@ Attendees will learn about how to transfer large dataset effieceintly using Glob
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Using Rclone with Google Drive - Hands On</td>
   </tr>
   <tr>
-    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">3:30pM - 3:45pM</td>
+    <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">3:30PM - 3:45PM</td>
     <td class="tg-yw4l" style="min-width: 150px; font-size: 1.5em; text-align:left; ">Wrap Up</td>
   </tr>
   
