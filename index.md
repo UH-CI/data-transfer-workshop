@@ -28,6 +28,10 @@ Attendees will learn about how to transfer large dataset effieceintly using Glob
 * Participants should bring their laptops and plan to participate actively.
 * Laptops will require a browser application for accessing the Mana Open OnDemand instance
 
+## Materials
+
+https://github.com/UH-CI/data-transfer-workshop/raw/main/Data-Transfer-Globus%26Rclone.pdf
+
 ## Schedule
 
 ## Firday February 5th, 2021
