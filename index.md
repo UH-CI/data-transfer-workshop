@@ -30,7 +30,7 @@ Attendees will learn about how to transfer large dataset effieceintly using Glob
 
 ## Materials
 
-https://github.com/UH-CI/data-transfer-workshop/raw/main/Data-Transfer-Globus%26Rclone.pdf
+[Slides](https://github.com/UH-CI/data-transfer-workshop/raw/main/Data-Transfer-Globus%26Rclone.pdf)
 
 ## Schedule
 
